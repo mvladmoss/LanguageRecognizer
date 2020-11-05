@@ -1,7 +1,6 @@
 package com.bsuir.iyazis.languagerecognizer.model.mdoel;
 
 import lombok.AllArgsConstructor;
-import lombok.Data;
 import lombok.Getter;
 
 @AllArgsConstructor

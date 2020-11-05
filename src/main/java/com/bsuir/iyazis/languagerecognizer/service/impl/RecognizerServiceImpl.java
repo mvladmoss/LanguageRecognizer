@@ -89,7 +89,7 @@ public class RecognizerServiceImpl implements RecognizerService {
                 spanishSymbols++;
             }
         }
-        
+
         Integer textTotalSize = dirtyText.length();
         Double englishAlphabetFrequencyRatio = englishSymbols / textTotalSize;
         Double spanishAlphabetFrequencyRatio = spanishSymbols / textTotalSize;
